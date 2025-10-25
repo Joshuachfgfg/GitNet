@@ -4,10 +4,7 @@ package com.mycompany.calculadora;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Usuario
- */
+
 public class Calculadora {
 
       public static void main(String[] args) {
